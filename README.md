@@ -1,2 +1,2 @@
 # Chatbot_using_NLP
-Implementation pf chatbot
+Implementation of chatbot
